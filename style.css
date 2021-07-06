@@ -104,6 +104,12 @@ header ul li a{
     padding:1% 0 ;
     line-height: 25px;
 }
+.images-container{
+    width: 100%;
+    display : flex;
+    margin: 0 auto;
+    
+}
 .third-section {
     width: 100%;
 }
